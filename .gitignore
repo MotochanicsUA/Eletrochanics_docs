@@ -35,8 +35,3 @@ coverage/
 # Ignoring temporary/backup files
 *~
 *.bak
-
-# Ignore lock files if using yarn or npm
-package-lock.json
-yarn.lock
-pnpm-lock.yaml
