@@ -1,48 +1,48 @@
 {
-  "/__docusaurus/debug-5ff": {
+  "/Eletrochanics_docs/__docusaurus/debug-59b": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
       "plugin": "plugin---docusaurus-debugb-38-ad3"
     }
   },
-  "/__docusaurus/debug/config-5ba": {
+  "/Eletrochanics_docs/__docusaurus/debug/config-81e": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
       "plugin": "plugin---docusaurus-debugb-38-ad3"
     }
   },
-  "/__docusaurus/debug/content-a2b": {
+  "/Eletrochanics_docs/__docusaurus/debug/content-0b3": {
     "__comp": "__comp---theme-debug-contentba-8-ce7",
     "__context": {
       "plugin": "plugin---docusaurus-debugb-38-ad3"
     },
-    "__props": "__props---docusaurus-debug-content-3-c-0-be2"
+    "__props": "__props---eletrochanics-docs-docusaurus-debug-content-012-219"
   },
-  "/__docusaurus/debug/globalData-c3c": {
+  "/Eletrochanics_docs/__docusaurus/debug/globalData-991": {
     "__comp": "__comp---theme-debug-global-dataede-0fa",
     "__context": {
       "plugin": "plugin---docusaurus-debugb-38-ad3"
     }
   },
-  "/__docusaurus/debug/metadata-156": {
+  "/Eletrochanics_docs/__docusaurus/debug/metadata-a7f": {
     "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
     "__context": {
       "plugin": "plugin---docusaurus-debugb-38-ad3"
     }
   },
-  "/__docusaurus/debug/registry-88c": {
+  "/Eletrochanics_docs/__docusaurus/debug/registry-248": {
     "__comp": "__comp---theme-debug-registry-679-501",
     "__context": {
       "plugin": "plugin---docusaurus-debugb-38-ad3"
     }
   },
-  "/__docusaurus/debug/routes-000": {
+  "/Eletrochanics_docs/__docusaurus/debug/routes-a83": {
     "__comp": "__comp---theme-debug-routes-946-699",
     "__context": {
       "plugin": "plugin---docusaurus-debugb-38-ad3"
     }
   },
-  "/blog-b2f": {
+  "/Eletrochanics_docs/blog-679": {
     "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
     "__context": {
       "plugin": "plugin---blog-369-22e"
@@ -62,16 +62,16 @@
         "content": "content---blog-925-e00"
       }
     ],
-    "__props": "__props---blogc-15-573"
+    "__props": "__props---eletrochanics-docs-blogfe-0-95f"
   },
-  "/blog/archive-182": {
+  "/Eletrochanics_docs/blog/archive-13d": {
     "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
     "__context": {
       "plugin": "plugin---blog-369-22e"
     },
-    "__props": "__props---blog-archivef-81-229"
+    "__props": "__props---eletrochanics-docs-blog-archive-7-b-0-2e5"
   },
-  "/blog/authors-0b7": {
+  "/Eletrochanics_docs/blog/authors-da0": {
     "__comp": "__comp---theme-blog-pages-blog-authors-list-page-621-70c",
     "__context": {
       "data": {
@@ -80,9 +80,9 @@
       "plugin": "plugin---blog-369-22e"
     },
     "sidebar": "sidebar---blog-814-8ac",
-    "__props": "__props---blog-authorsef-8-44f"
+    "__props": "__props---eletrochanics-docs-blog-authors-7-f-5-758"
   },
-  "/blog/authors/all-sebastien-lorber-articles-4a1": {
+  "/Eletrochanics_docs/blog/authors/all-sebastien-lorber-articles-1d8": {
     "__comp": "__comp---theme-blog-pages-blog-authors-posts-page-33-f-bd5",
     "__context": {
       "data": {
@@ -102,9 +102,9 @@
       }
     ],
     "sidebar": "sidebar---blog-814-8ac",
-    "__props": "__props---blog-authors-all-sebastien-lorber-articlesc-9-c-639"
+    "__props": "__props---eletrochanics-docs-blog-authors-all-sebastien-lorber-articles-947-fa6"
   },
-  "/blog/authors/yangshun-a68": {
+  "/Eletrochanics_docs/blog/authors/yangshun-7e6": {
     "__comp": "__comp---theme-blog-pages-blog-authors-posts-page-33-f-bd5",
     "__context": {
       "data": {
@@ -124,9 +124,9 @@
       }
     ],
     "sidebar": "sidebar---blog-814-8ac",
-    "__props": "__props---blog-authors-yangshun-1-de-d0c"
+    "__props": "__props---eletrochanics-docs-blog-authors-yangshunca-0-840"
   },
-  "/blog/first-blog-post-89a": {
+  "/Eletrochanics_docs/blog/first-blog-post-5ac": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
       "data": {
@@ -137,7 +137,7 @@
     "sidebar": "sidebar---blog-814-8ac",
     "content": "content---blog-first-blog-poste-27-4a1"
   },
-  "/blog/long-blog-post-9ad": {
+  "/Eletrochanics_docs/blog/long-blog-post-834": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
       "data": {
@@ -148,7 +148,7 @@
     "sidebar": "sidebar---blog-814-8ac",
     "content": "content---blog-long-blog-post-736-bc7"
   },
-  "/blog/mdx-blog-post-e9f": {
+  "/Eletrochanics_docs/blog/mdx-blog-post-387": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
       "data": {
@@ -159,15 +159,15 @@
     "sidebar": "sidebar---blog-814-8ac",
     "content": "content---blog-mdx-blog-post-593-37b"
   },
-  "/blog/tags-287": {
+  "/Eletrochanics_docs/blog/tags-677": {
     "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
     "__context": {
       "plugin": "plugin---blog-369-22e"
     },
     "sidebar": "sidebar---blog-814-8ac",
-    "__props": "__props---blog-tags-3-a-2-fa2"
+    "__props": "__props---eletrochanics-docs-blog-tags-964-bbe"
   },
-  "/blog/tags/docusaurus-704": {
+  "/Eletrochanics_docs/blog/tags/docusaurus-6a6": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
       "plugin": "plugin---blog-369-22e"
@@ -187,9 +187,9 @@
         "content": "content---blog-925-e00"
       }
     ],
-    "__props": "__props---blog-tags-docusaurus-321-832"
+    "__props": "__props---eletrochanics-docs-blog-tags-docusaurus-2-d-6-f62"
   },
-  "/blog/tags/facebook-858": {
+  "/Eletrochanics_docs/blog/tags/facebook-c57": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
       "plugin": "plugin---blog-369-22e"
@@ -200,9 +200,9 @@
         "content": "content---blog-766-e3c"
       }
     ],
-    "__props": "__props---blog-tags-facebooke-5-a-514"
+    "__props": "__props---eletrochanics-docs-blog-tags-facebook-275-b45"
   },
-  "/blog/tags/hello-299": {
+  "/Eletrochanics_docs/blog/tags/hello-3b5": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
       "plugin": "plugin---blog-369-22e"
@@ -216,9 +216,9 @@
         "content": "content---blog-871-381"
       }
     ],
-    "__props": "__props---blog-tags-hellof-82-2fd"
+    "__props": "__props---eletrochanics-docs-blog-tags-hello-599-cf9"
   },
-  "/blog/tags/hola-00d": {
+  "/Eletrochanics_docs/blog/tags/hola-8a7": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
       "plugin": "plugin---blog-369-22e"
@@ -229,9 +229,9 @@
         "content": "content---blog-925-e00"
       }
     ],
-    "__props": "__props---blog-tags-hola-5-e-9-9a3"
+    "__props": "__props---eletrochanics-docs-blog-tags-hola-9-a-3-93b"
   },
-  "/blog/welcome-d2b": {
+  "/Eletrochanics_docs/blog/welcome-5ee": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
       "data": {
@@ -242,71 +242,71 @@
     "sidebar": "sidebar---blog-814-8ac",
     "content": "content---blog-welcomed-9-f-ffb"
   },
-  "/markdown-page-3d7": {
+  "/Eletrochanics_docs/markdown-page-bfd": {
     "__comp": "__comp---theme-mdx-page-1-f-3-b90",
     "__context": {
       "plugin": "plugin---markdown-pagea-74-7b5"
     },
     "content": "content---markdown-page-393-028"
   },
-  "/docs-733": {
+  "/Eletrochanics_docs/docs-83e": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/docs-7e6": {
+  "/Eletrochanics_docs/docs-b08": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
-    "__props": "__props---docs-005-788"
+    "__props": "__props---eletrochanics-docs-docs-5-dc-c6c"
   },
-  "/docs-ba6": {
+  "/Eletrochanics_docs/docs-ca3": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
-  "/docs/category/tutorial---basics-20e": {
+  "/Eletrochanics_docs/docs/category/tutorial---basics-73f": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---docs-category-tutorial-basicsc-8-a-e51"
+    "__props": "__props---eletrochanics-docs-docs-category-tutorial-basics-438-678"
   },
-  "/docs/category/tutorial---extras-9ad": {
+  "/Eletrochanics_docs/docs/category/tutorial---extras-3ed": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---docs-category-tutorial-extras-6-bb-a82"
+    "__props": "__props---eletrochanics-docs-docs-category-tutorial-extras-701-c83"
   },
-  "/docs/intro-61d": {
+  "/Eletrochanics_docs/docs/intro-359": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-intro-0-e-3-be1"
   },
-  "/docs/tutorial-basics/congratulations-458": {
+  "/Eletrochanics_docs/docs/tutorial-basics/congratulations-7c8": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-tutorial-basics-congratulations-822-958"
   },
-  "/docs/tutorial-basics/create-a-blog-post-108": {
+  "/Eletrochanics_docs/docs/tutorial-basics/create-a-blog-post-854": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-tutorial-basics-create-a-blog-post-533-e85"
   },
-  "/docs/tutorial-basics/create-a-document-8fc": {
+  "/Eletrochanics_docs/docs/tutorial-basics/create-a-document-2a5": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-tutorial-basics-create-a-document-1-e-4-078"
   },
-  "/docs/tutorial-basics/create-a-page-951": {
+  "/Eletrochanics_docs/docs/tutorial-basics/create-a-page-0e3": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-tutorial-basics-create-a-page-5-c-8-e19"
   },
-  "/docs/tutorial-basics/deploy-your-site-4f5": {
+  "/Eletrochanics_docs/docs/tutorial-basics/deploy-your-site-6ea": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-tutorial-basics-deploy-your-sitef-55-a3f"
   },
-  "/docs/tutorial-basics/markdown-features-b05": {
+  "/Eletrochanics_docs/docs/tutorial-basics/markdown-features-93f": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-tutorial-basics-markdown-features-18-c-a79"
   },
-  "/docs/tutorial-extras/manage-docs-versions-978": {
+  "/Eletrochanics_docs/docs/tutorial-extras/manage-docs-versions-cc2": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-tutorial-extras-manage-docs-versionsdff-6d4"
   },
-  "/docs/tutorial-extras/translate-your-site-f9a": {
+  "/Eletrochanics_docs/docs/tutorial-extras/translate-your-site-e05": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-tutorial-extras-translate-your-sitee-44-ddf"
   },
-  "/-2e1": {
+  "/Eletrochanics_docs/-d48": {
     "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
     "__context": {
       "plugin": "plugin---markdown-pagea-74-7b5"

@@ -7,8 +7,8 @@ export default {
   "title": "Eletrocanics Docs",
   "tagline": "Documentation of the Eletronical system of the Eletrochanics",
   "favicon": "img/favicon.ico",
-  "url": "https://your-docusaurus-test-site.com",
-  "baseUrl": "/",
+  "url": "https://motochanicsua.github.io",
+  "baseUrl": "/Eletrochanics_docs/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "i18n": {
